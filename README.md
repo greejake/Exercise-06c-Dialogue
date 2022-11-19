@@ -20,4 +20,4 @@ None
 
 ## Created by 
 
-Jake GReene
+Jake Greene
